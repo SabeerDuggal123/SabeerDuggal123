@@ -2,7 +2,7 @@
 - 👀 I’m interested <b>Coding, Astronomy, Reading, Science and Writing</b>
 - 🌱 I’m currently a middle school student
 <image src  = 'https://github.com/SabeerDuggal123/SabeerDuggal123/blob/main/Telescope.gif'  width = 210 height = 150>
-  <a href = 'https://www.youtube.com/channel/UC8RY_2Edd4NbvXCoRdg8X4w'><button>🔗 My Youtube channel</button></a>
+  <a href = 'https://www.youtube.com/channel/UC8RY_2Edd4NbvXCoRdg8X4w'><button>🔗 My Youtube channel</button></a><br>
   <a href = 'https://github.com/SabeerDuggal123/'><button>🔗 Github </button></a>
   
 <!---
